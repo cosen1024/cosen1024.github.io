@@ -1,3 +1,4 @@
-- [Gitee](https://gitee.com/moxi159753/mogu_blog_v2)
-- [Github](https://github.com/moxi624/mogu_blog_v2)
-- [演示](http://moguit.cn/#/)
+- [Gitee](https://gitee.com/cosen1024/Java-Interview)
+- [Github](https://github.com/cosen1024/Java-Interview)
+- [pdf下载](/doc/Other/pdf.md)
+- [关于我](https://mp.weixin.qq.com/s/Q1uNpj_6mGscy5JbMqMY-Q)

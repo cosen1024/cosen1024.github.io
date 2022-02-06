@@ -7,7 +7,8 @@
 * [Redis](/doc/Redis/面试题.md)
 * [Spring](/doc/Spring/面试题.md)
 * [Mybatis](/doc/Mybatis/面试题.md)
-* [MQ](/doc/MQ/MQ面试题.md)
+* MQ
+    * [MQ](/doc/MQ/MQ面试题.md)
     * [Kafka面试题](/doc/MQ/Kafka面试题.md)
     * [RabbitMQ面试题](/doc/MQ/RabbitMQ面试题.md)
     * [RocketMQ面试题](/doc/MQ/RocketMQ面试题.md)
