@@ -9,9 +9,6 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
 
-   html,body{ overflow-y:scroll;}
-   html,body{ overflow:scroll; min-height:101%;}
-   html{ overflow:-moz-scrollbars-vertical;}
    .advertisement {
     position: absolute;
     right: 1px;
@@ -75,9 +72,14 @@
       repo:'cosen1024/Java-Interview',
       loadSidebar: true,
       subMaxLevel: 3,
+      sidebarDisplayLevel: 1, // set sidebar display level
       loadNavbar: true,
       coverpage: true,
       onlyCover: true,
+      auto2top: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
       search: {
         paths: 'auto',
         placeholder: '🔍 搜索',
@@ -159,6 +161,8 @@
 </script>
 <!-- 访问量统计 -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
 
 </body>
