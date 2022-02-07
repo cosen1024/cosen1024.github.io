@@ -1,7 +1,7 @@
-# Headline
+
 # Java-Interview
 「Java面试小抄」一份通向理想互联网公司的面试指南，包括 Java基础、集合、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、操作系统、计算机网络、系统设计、分布式、Java 项目实战等。
-
+ 
 
 
 <p align="center">
@@ -53,6 +53,10 @@
 * [Dubbo](/doc/Dubbo/面试题.md)
 * [操作系统](/doc/操作系统/面试题.md)
 * [计算机网络](/doc/计算机网络/面试题.md)
-## 关于我
-[库森的校招经历](http://mp.weixin.qq.com/s?__biz=Mzg4MjUxMTI4NA==&mid=2247483796&idx=1&sn=bdc95819d442ac946b6e49dee6ee36de&chksm=cf54dd4ff82354594280041ce65f639a8ed3361df03da95bed743474a6075dfa973f35acc029&token=2080698617&lang=zh_CN#rd)
+* 求职软实力
+    * [简历制作](doc/软实力/程序员简历.md)
+    * [面试流程](doc/软实力/大厂面试流程.md)
+    * [如何谈薪](doc/软实力/聊聊谈薪.md)
+    * [校招时间线](doc/软实力/校招时间线.md)
+    * [offer选择](doc/软实力/offer选择.md)
 
