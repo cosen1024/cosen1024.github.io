@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="./doc/images/gitee/favicon2.ico">
+<!-- <img width="180px" style="border-radius: 50%" bor src="img/favicon.ico"> -->
 
 # Java面试小抄
 
