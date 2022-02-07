@@ -11,6 +11,7 @@
     * [RabbitMQ面试题](/doc/MQ/RabbitMQ面试题.md)
     * [Kafka面试题](/doc/MQ/Kafka面试题.md)
     * [RocketMQ面试题](/doc/MQ/RocketMQ面试题.md)
+* [分布式](/doc/分布式/面试题.md)
 * [Dubbo](/doc/Dubbo/面试题.md)
 * [操作系统](/doc/操作系统/面试题.md)
 * [计算机网络](/doc/计算机网络/面试题.md)
