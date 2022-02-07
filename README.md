@@ -1,12 +1,12 @@
 
 # Java-Interview
-「Java面试小抄」一份通向理想互联网公司的面试指南，包括 Java基础、集合、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、操作系统、计算机网络、系统设计、分布式、Java 项目实战等。
+「Java面试小抄」一份通向理想互联网公司的面试指南，包括 Java基础、集合、Java并发、JVM、MySQL、Redis、Spring、MyBatis、MQ、操作系统、计算机网络、系统设计、分布式、Java 项目实战等。
  
 
 
 <p align="center">
     <br>
-    <a href="http://blog-img.coolsen.cn/img/image-20210617144435278.png"><img src="https://img.shields.io/badge/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
+    <a href="http://blog-img.coolsen.cn/img/image-20220207141405911.png"><img src="https://img.shields.io/badge/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
 <a href="http://blog-img.coolsen.cn/img/公众号.jpg"><img src="https://img.shields.io/badge/公众号-程序员库森-green.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/ku-sen-1"><img src="https://img.shields.io/badge/知乎-程序员库森-informational.svg" alt="知乎"></a>
    <a href="https://blog.csdn.net/weixin_45545542"><img src="https://img.shields.io/badge/CSDN-程序员库森-important.svg" alt="CSDN"></a>
