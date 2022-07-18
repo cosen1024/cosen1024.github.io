@@ -18,6 +18,12 @@
  <br> <strong>👍推荐<a href="https://github.com/cosen1024/awesome-cs-books">免费下载几百本计算机经典 电子书</a></strong> <br>
     </div> 
 
+<div>
+<br>
+有需要简历修改、美化，求职指导，面试辅导的同学，可以扫描下方二维码加我微信，注明来意。
+![image-20220718112101627](http://blog-img.coolsen.cn/img/image-20220718112101627.png)
+
+</div>
 ## 更多
 <a name="download"></a>
 
