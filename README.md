@@ -34,7 +34,7 @@
 请微信扫描或搜索下方个人公众号『**程序员库森**』后，回复关键字『**pdf**』，即可下载该面试小抄的**最新 PDF 版本**。
 
 <a name="公众号"></a>
-<div align="center"><img src="http://blog-img.coolsen.cn/img/公众号.jpg" style="zoom:50%;" />
+<div align="center"><img src="http://blog-img.coolsen.cn/img/公众号.jpg" style="zoom:20%;" />
     <p>个人公众号</p>
 </div>
 </details>
